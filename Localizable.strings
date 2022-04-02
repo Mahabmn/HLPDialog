@@ -1,0 +1,55 @@
+/*******************************************************************************
+ * Copyright (c) 2014, 2016  IBM Corporation, Carnegie Mellon University and others
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *******************************************************************************/
+
+"SPEAK_NOW" = "<تكلم الآن!>";
+
+"PAUSING" = "<توقف>";
+
+"checkNetworkConnection" = "تحقق من اتصال الشبكة";
+
+"DialogSearch" = "البحث الصوتي";
+
+"DialogStart" = "اعادة تشغيل";
+
+"DialogStartHint" = "انقر نقرًا مزدوجًا لبدء التعرف على الصوت";
+
+"Error" = "خطأ";
+
+"CANCEL" = "يلغي";
+"SETTING" = "أفتح الإعدادات";
+
+"WAIT_ACTION" = "في انتظار سؤالك. اضغط على زر الميكروفون لإعادة التشغيل.";
+
+"NoAudioAccessAlertTitle" = "الميكروفون غير مسموح به";
+"NoAudioAccessAlertMessage" = "تحتاج إلى السماح بالوصول إلى الميكروفون لتمكين وظيفة المحادثة.
+من إعدادات الخصوصية ، يرجى تشغيل
+ميكروفون → NavCog";
+
+"NoSpeechRecoAccessAlertTitle" = "التعرف على الكلام غير مسموح به";
+"NoSpeechRecoAccessAlertMessage" = "تحتاج إلى السماح بالوصول إلى التعرف على الكلام لتمكين وظيفة المحادثة.
+من إعدادات الخصوصية ، يرجى تشغيل
+التعرف على الكلام → NavCog";
+
+"unknownError0" = "تعذر بدء التعرف على الصوت. حاول مرة اخرى.";
+"unknownError1" = "التعرف على الصوت غير متوفر. الرجاء معاودة المحاولة في وقت لاحق.";
+
+"serverConnectionError" = "تعذر الاتصال بالخادم مؤقتًا.";
